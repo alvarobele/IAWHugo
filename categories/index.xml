@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ASIR</title>
-    <link>/categories/</link>
+    <link>/IAWHugo/categories/</link>
     <description>Recent content in Categories on ASIR</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/IAWHugo/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
