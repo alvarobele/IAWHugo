@@ -5,19 +5,10 @@
     <link>/IAWHugo/post/</link>
     <description>Recent content in Posts on ASIR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Oct 2018 15:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 10:59:25 +0000</lastBuildDate>
     
 	<atom:link href="/IAWHugo/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Prueba2</title>
-      <link>/IAWHugo/post/prueba2/</link>
-      <pubDate>Thu, 04 Oct 2018 15:23:31 +0000</pubDate>
-      
-      <guid>/IAWHugo/post/prueba2/</guid>
-      <description> Esto es una prueba </description>
-    </item>
     
     <item>
       <title>Tercer Post</title>
